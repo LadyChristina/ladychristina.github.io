@@ -12,7 +12,7 @@ import About from '../pages/About';
 import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
-import Projects from '../pages/Projects';
+// import Projects from '../pages/Projects';
 import Resume from '../pages/Resume';
 import Stats from '../pages/Stats';
 
@@ -27,11 +27,11 @@ const pages = [
     heading: 'About Me',
     component: About,
   },
-  {
-    route: '/projects',
-    heading: 'Projects',
-    component: Projects,
-  },
+  // {
+  //   route: '/projects',
+  //   heading: 'Projects',
+  //   component: Projects,
+  // },
   {
     route: '/stats',
     heading: 'Stats',
