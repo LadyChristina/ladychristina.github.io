@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>Hi, I&apos;m Christina. I like coding, travelling and looking at the world upside down.
         Some people have called me &quot;normal&quot;, others &quot;a state of mind&quot;; I guess
         I&apos;m a bit of both.
-        Importantly, I am a Lady.
+        Importantly, I am a Lady (of Glencoe).
       </p>
       <ul className="actions">
         <li>
