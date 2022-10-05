@@ -1,17 +1,8 @@
 
 # Intro
 
-Bla bla
+Χριστίνα <- my actual name 
 
-# Currently
-
-Bli bli
-
-# Some history
-
-- Ble
-
-- ble
 
 # I like
 
@@ -21,51 +12,19 @@ Bli bli
 - Summer
 - [Books](https://app.thestorygraph.com/profile/ladychristina)
 - Podcasts ([Lex Fridman](https://lexfridman.com/podcast/), [Huberman Lab](https://hubermanlab.com/), [The Tim Ferriss Show](https://tim.blog/podcast/), and others)
+- Cycling
+- Baking
 
 
-<!-- # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
+# Fun facts about me
 
-# Fun facts
-
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a [cruiser](https://landyachtz.com/boards/cruiser/), [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric skateboard](https://boostedusa.com/collections/electric-skateboards/products/boosted-mini-x) every single day.
-- I added this page because so many people complained that my site was just my resume.
-
-# I dream of
-
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
-
-# Websites from people I admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com)
-
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you. -->
+- I AM A LADY (just in case you hadn't noticed already) <!-- todo maybe add link to certificate -->
+- In 2021, I resolved to visit at least one new Greek island every year for the next 50 years
+- (After endless practicing during lockdown) I can do a headstand and hold it for a minute 
+- I can say thank you in more than 20 languages (thanks to all my international colleagues 🙏)
+- I always thought I would do well at an eating contest but never had the chance to (dis)prove myself
+- Last year I managed to eliminate plastic from my bathroom and I'm very proud of it  <!-- todo maybe link to notion page about sustainable consumption -->
+- I used to dislike tea before coming to live in the UK, but fast forward two years and my shelf 
+    holds 21 different types of tea now and my situation might qualify as an addiction (or just blending in..) <!-- todo maybe mention facourite tea brand -->
+- I enjoy climbing and want to get better at it
