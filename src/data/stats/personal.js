@@ -6,7 +6,7 @@ const Age = () => {
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
     const birthTime = new Date('1996-09-25T15:40:00');
-    setAge(((Date.now() - birthTime) / divisor).toFixed(11));
+    setAge(((Date.now() - birthTime) / divisor).toFixed(9));
   };
 
   useEffect(() => {
@@ -28,13 +28,15 @@ const data = [
     key: 'countries',
     label: 'Countries visited',
     value: 14,
-     link:
-       'https://www.google.com/maps/d/edit?mid=10Lafya6oCPj6SlIlcEN1M_1Towey3UQ&usp=sharing',
+    link:
+      'https://www.google.com/maps/d/edit?mid=10Lafya6oCPj6SlIlcEN1M_1Towey3UQ&usp=sharing',
   },
   {
-    key: 'location',
-    label: 'Current city',
-    value: 'Edinburgh, UK',
+    key: 'islands',
+    label: 'Greek islands visited',
+    value: 33,
+    link:
+      'https://www.google.com/maps/d/edit?mid=10Lafya6oCPj6SlIlcEN1M_1Towey3UQ&usp=sharing',
   },
 ];
 

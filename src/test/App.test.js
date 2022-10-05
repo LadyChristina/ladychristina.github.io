@@ -19,7 +19,7 @@ import Stats from '../pages/Stats';
 const pages = [
   {
     route: '/',
-    heading: 'Hello',
+    heading: 'Hello World',
     component: Index,
   },
   {
