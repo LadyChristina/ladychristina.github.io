@@ -22,11 +22,11 @@ repository               : "ladychristina/ladychristina.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   name             : "Christina Ovezik"
   pronouns         : # "she/her"  
-  bio              : "PhD Student at the University of Edinburgh, interested in
-                      blockchains and decentralisation."
+  bio              : #"PhD Student at the University of Edinburgh, interested in
+                     # blockchains and decentralisation."
   location         : "Edinburgh, UK"
   employer         : # "University of Edinburgh"
   uri              : # URL
