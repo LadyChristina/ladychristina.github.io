@@ -35,5 +35,5 @@ industry.  -->
 Read more about my [publications](/publications), 
 [talks](/talks), [teaching experience](/teaching), 
 or view my [full CV](/files/cv.pdf). 
-You can also reach me at <mailto:christina.ovezik@ed.ac.uk>.
+You can reach me at <mailto:christina.ovezik@ed.ac.uk>.
 
