@@ -41,7 +41,13 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>,
+            {% if post.years %}
+              {{ post.years | join: ', ' }}
+            {% else %}
+              {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {% endif %}
+          </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
@@ -50,6 +56,9 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% if post.collection == 'teaching' and post.course_url %}
+      <p><a href="{{ post.course_url }}" target="_blank">Course Website</a></p>
+    {% endif %}
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
