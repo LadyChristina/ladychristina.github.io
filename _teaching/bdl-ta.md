@@ -10,6 +10,7 @@ years:
   - 2023
   - 2024
   - 2025
+  - 2026
 course_url: https://opencourse.inf.ed.ac.uk/bdl
 ---
 
