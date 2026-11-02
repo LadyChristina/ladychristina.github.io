@@ -14,7 +14,7 @@ Lab](https://informatics.ed.ac.uk/blockchain)
 at the School of Informatics, 
 where I conduct research on the decentralisation of blockchain systems, under 
 the supervision of [Aggelos Kiayias](https://kiayias.com/) and 
-[Daniel W. Woods](https://www.danielwoods.info/). 
+[Daniel W. Woods](https://www.linkedin.com/in/daniel-woods-82555199/). 
 My work focuses on evaluating the extent to which current blockchain systems 
 are decentralised, by defining clear notions of decentralisation and 
 developing systematic ways to measure it across different dimensions, as 
